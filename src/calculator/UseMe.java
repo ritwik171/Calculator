@@ -17,6 +17,8 @@ public class UseMe {
     public static void main(String[] args) {
         int result = Demo.add(10, 20);
         System.out.println(result);
+        int sub = Demo.sub(24, 12);
+        System.out.println(sub);
     }
     
 }
